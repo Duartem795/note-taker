@@ -1,18 +1,21 @@
-# Readme Generator
+# Note Taker
   ## Description
-  Generates a professional readme file for a project after a series of user prompts.
+  Create and save notes for later reference.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
+  
   ## Installation
-  Clone this repository and run "npm install" in the terminal after opening the folder.
+  Clone this repository and run "npm i" in the terminal after opening the folder.
+  
   ## Usage
-  Run the app using "node index.js" and answer prompts.
+  Visit the deployment page
   
   ## Credits
-  No collaborators to credit.
+  Back end created by Martin Duarte. The original code for the note taker was created by Trilogy Education services.
+  
   ## License
   Unlicensed
   This is free and unencumbered software released into the public domain.
