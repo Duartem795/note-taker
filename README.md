@@ -39,7 +39,6 @@
     
     For more information, please refer to [Unlicense.org](https://unlicense.org)
   ## Questions
-  Author: [Thomas Kubant](https://github.com/ThomasKubant)
-  Github: [ThomasKubant](https://github.com/ThomasKubant)
-  Email: [ThomasKubant@gmail.com](mailto:thomaskubant@gmail.com)
-  Demostration of app: https://drive.google.com/file/d/1Y83byPPKzAiiAAC8hyGSoctxxRGQhyjZ/view
+  Author: [Martin Duarte](https://github.com/duartem795)
+  Github:[Martin Duarte](https://github.com/duartem795)
+  Email: [Duartem795@gmail.com](mailto:duartem795@gmail.com)
